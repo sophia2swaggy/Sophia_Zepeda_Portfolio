@@ -1,9 +1,30 @@
-# Project 1: Home Price Analysis in Boston
+# 👋 Hi, I'm Sophia  
+Babson College | Business Analytics Student | Predictive Modeling | Data Visualization | Machine Learning
 
-This is a project i completed during Predictive Buisness Analytics class, where I analyzed the Boston Housing dataset to understant which factors signifcantly influence housing prices and to communicate insights in a way that supports buisness decisions.
+Welcome to my GitHub portfolio! Here I showcase end-to-end analytics projects completed using R, Python, and various predictive modeling techniques. My work focuses on turning data into clear, actionable business insights.
 
-* This data was taken from UCI Machine Learning Repository
-* This model uses regression analysis to identify statistically significant predictors of housing prices, quntify the direction and magnitude of their impact and translate findings into business insights.
-* Algorithms used:, Multiple Linear Regression, Stepwise Regression
-* Key findings:
-* Business Insights:
+---
+
+## 📊 Data & Analytics Projects
+
+### 🔍 Project: Boston Home Price Analysis  
+**Tech:** R / Jupyter Notebook, Linear Regression  
+**Summary:**  
+In this project, I implemented a multi-layer neural network in PyTorch to predict a binary outcome from seven numeric features.  
+I handled data preprocessing (scaling, train/validation/test split), defined a 3-hidden-layer architecture (11,051 parameters), 
+trained the model with mini-batch gradient descent, and evaluated performance using accuracy, confusion matrix, 
+and a classification report on a held-out test set.
+
+➡️ **[View full project repository](#)**  
+---
+
+## 🧰 Skills & Tools  
+**Languages:** R, Python, SQL  
+**Techniques:** Linear Regression, Logistic Regression, KNN, Neural Networks  
+**Tools:** Jupyter Notebook, RStudio, GitHub, Excel, Tableau  
+
+---
+
+## 📫 Contact  
+- LinkedIn: *add link*  
+- Email: *add email*  
